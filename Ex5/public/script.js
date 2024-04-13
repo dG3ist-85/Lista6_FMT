@@ -1,0 +1,1 @@
+document.write('<h2><strong>Express JS usando arquivos estáticos</strong></h2>')
